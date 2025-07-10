@@ -1,6 +1,7 @@
 # 🎮 Policaidalibre
 
 ![alt text](menufinal.png)
+
 Game in action: https://www.youtube.com/shorts/uHl_1TGxGAk
 
 **Policaidalibre** is a classic-style game developed in C where your mission is simple: **help a skydiver land safely** by **dodging clouds and obstacles** on the way down. The game challenges players across **three difficulty levels** while managing limited lives and aiming for the ground. Can you survive the fall?
